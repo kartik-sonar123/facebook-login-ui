@@ -18,5 +18,5 @@
 </ul>
 <h2>View Live</h2>
 <p>Check out the live version of the project here:  
-<a href=" https://kartik-sonar123.github.io/facebook-login-ui/" target="_blank"><b>Facebook Clone - Live Demo</b></a></p>
+<a href="https://kartik-sonar123.github.io/facebook-login-ui/" target="_blank"><b>Facebook Clone - Live Demo</b></a></p>
 
